@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2021 Will Jackson <will@willjackson.uk> -->
+<component type="desktop">
+    <id>com.github.willjacksonuk.hello-packaging</id>
+    <metadata_license>CC0</metadata_license>
+    <name>Hello Packaging</name>
+    <summary>Can we package this?</summary>
+    <description>
+        <p>Learning how to package applications</p>
+    </description>
+</component>
