@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Hello Packaging
+GenericName=Hello Packaging App
+Comment=Let's see if we can get the hang of packaging
+Categories=Utility;Education;
+Exec=com.github.willjacksonuk.hello-packaging
+Icon=application-default-icon
+Terminal=false
+Type=Application
+Keywords=Hello;Packaging;
